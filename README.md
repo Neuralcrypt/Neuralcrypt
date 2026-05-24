@@ -1,8 +1,3 @@
-Here is a custom GitHub README designed to position you as an innovative AI/ML Engineer. To really make this futuristic design pop on your profile, I highly recommend designing any custom banners or adding GitHub profile stats cards using a dark blue and grey color scheme with neon glow effects.
-
-You can copy the Markdown code below directly into your `README.md` file. *(Note: Make sure to remove the `` tags before committing the file to your repository!)*
-
-```markdown
 # 🌌 Hello World! [cite_start]I'm ABHISHEK PRASAD [cite: 1]
 ### 🤖 AI/ML Engineer | Visionary Developer | Code Crafter
 
@@ -64,5 +59,3 @@ Welcome to my digital workspace. [cite_start]I am currently pursuing my B.Tech i
 <p align="center">
   <i>"Architecting the future, one neural node at a time."</i>
 </p>
-
-```
